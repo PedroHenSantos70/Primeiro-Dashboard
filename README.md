@@ -1,4 +1,3 @@
 # Primeiro Projeto
 
-Olá, este é o meu primeiro projeto de análise de dados. 
-Foi realizado a análise em Python de um Dataframe de um E-commerce, utilizando manobras para identificar e tratar os outliers, limpando assim a base de dados. Através da limpeza, montei alguns gráficos que representam alguns KPI's, e exportação para o Power BI.
+Olá! Este é o meu primeiro projeto de análise de dados, no qual realizei a análise de um DataFrame de um E-commerce utilizando Python. Durante o processo, identifiquei e tratei outliers, o que permitiu limpar e aprimorar a qualidade da base de dados. Com os dados refinados, criei diversos gráficos para representar alguns KPI's importantes e, em seguida, exportei essas visualizações para o Power BI.
